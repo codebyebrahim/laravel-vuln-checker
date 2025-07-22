@@ -43,7 +43,8 @@ A simple Laravel vulnerability scanner for CVEs and common misconfigurations. Th
 - pip package manager
 
 ### Install Dependencies
-
+```bash
+pip install -r requirements.txt
 ```bash
 git clone https://github.com/codebyebrahim/laravel-vuln-checker.git
 cd laravel-vuln-checker
