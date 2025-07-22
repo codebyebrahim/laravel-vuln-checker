@@ -37,9 +37,6 @@ A simple Laravel vulnerability scanner for CVEs and common misconfigurations. Th
 ![Laravel Vulnerability Checker Screenshot 3](screenshot3.jpg)
 *Vulnerability detection with detailed analysis*
 
-## Installation
-
----
 ### Prerequisites
 
 - Python 3.6 or higher
@@ -86,6 +83,7 @@ pip install -r requirements.txt
 [15:30:50] [•] Ignition RCE vulnerability not detected
 [15:30:52] [•] Environment session injection not detected
 ...
+```
 ---
 
 ## 🔍 Vulnerability Modules
